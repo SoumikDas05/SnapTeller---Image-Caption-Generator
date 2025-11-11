@@ -1,1 +1,1 @@
-# SnapTeller---Image-Caption-Generator
+# SnapTeller - Image-Caption-Generator
